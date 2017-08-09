@@ -1,0 +1,11 @@
+a=8
+b=5.9
+c="hello"
+d=a+b
+e=a/b
+f=a**b
+g=a*b
+h=a-b
+i=a%b
+j=c+str(1)
+print(a,b,c,d,e,f,g,h,i,j)
